@@ -1,17 +1,25 @@
-img
-{
+img {
     border-radius: 75px;
 }
-body
-{
+
+body {
     text-align: center;
-    background-color: burlywood;
+    background-color: slateblue;
 }
-button
-{
-    background-color: rgb(138, 94, 28);
+
+button {
+    font-size: 20px;
+    margin: 10px;
+    width: 500px;
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px;
 }
-a
-{
-    color: black
+
+a {
+    color: slateblue;
+}
+
+p {
+    font-size: 20px;
 }
